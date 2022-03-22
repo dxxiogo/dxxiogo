@@ -1,7 +1,7 @@
 ### Olá! Eu sou Diogo Santana 👋
 <ul>
-<li>🌱Eu atualmente estudo desenvolvimento Web
-<li>📚Tecnologias: CSS, HTML5 e JavaScript + NodeJs
+<li>🌱Eu atualmente estudo desenvolvimento Frontend
+<li>📚Tecnologias: CSS, HTML5, JavaScript, Bulma, Bootstrap e ReactJS
 <li>📩Contate-me no email: diogosantanafreitasuna@gmail.com
 </ul>
 <div>
