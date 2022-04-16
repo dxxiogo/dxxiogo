@@ -1,9 +1,8 @@
 ### Olá! Eu sou Diogo Santana 👋
 <ul>
 <li>🌱Eu atualmente estudo desenvolvimento Frontend
-<li>📚 Análise e Desenvolvimento de Sistemas|IFPB   
-<li>📚Tecnologias: CSS, HTML5, JavaScript, Sass, Bulma, Bootstrap e ReactJS
-<li>📩Contate-me no email: diogosantanafreitasuna@gmail.com
+<li>📚 Análise e Desenvolvimento de Sistemas - IFPB   
+<li>📚Tecnologias: CSS, HTML5, JavaScript, Sass e Bulma.
 </ul>
 <div>
    <a href="https://mail.google.com/mail/u/0/" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>  
