@@ -2,7 +2,7 @@
 <ul>
 <li>🌱Eu atualmente estudo desenvolvimento Frontend
 <li>📚 Análise e Desenvolvimento de Sistemas - IFPB   
-<li>📚Tecnologias: CSS, HTML5, JavaScript, Sass e Bulma.
+<li>📚Tecnologias: CSS, HTML5, JavaScript e Sass.
 </ul>
 <div>
    <a href="https://mail.google.com/mail/u/0/" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>  
@@ -23,8 +23,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" /> 
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
   
   ![Snake animation](https://github.com/dxxiogo/dxxiogo/blob/output/github-contribution-grid-snake.svg)
