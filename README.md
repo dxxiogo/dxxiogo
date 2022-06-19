@@ -1,7 +1,7 @@
 ### Hi! I am Diogo Santana 👋
 <ul>
 <li>🌱 I currently study Front end development.
-<li>📚 Systems Analysis and Development - IFPB
+<li>📚  Graduating in Systems Analisys and Development.
 <li>📚 Technologies: CSS, HTML5, JavaScript and Sass.
 </ul>
 <div>
