@@ -1,4 +1,4 @@
-### Olá! Eu sou Diogo Santana 👋
+### Hi! I am Diogo Santana 👋
 <ul>
 <li>🌱 I currently study Front end development.
 <li>📚 Systems Analysis and Development - IFPB
