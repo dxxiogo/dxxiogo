@@ -2,7 +2,7 @@
 <ul>
 <li>🌱 I currently study Frontend development.
 <li>📚  Graduating in Systems Analisys and Development at IFPB.
-<li>📚 Technologies: CSS, HTML5, JavaScript and Sass.
+<li>📚 Technologies: CSS, HTML5, JavaScript, Sass e GIT
 </ul>
 <div>
    <a href="https://mail.google.com/mail/u/0/" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>  
