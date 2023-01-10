@@ -9,10 +9,9 @@
   <a href="https://www.linkedin.com/in/diogo-santana-freitas-78852321b" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
   </a> 
 </div> 
-<div>
+<div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=dxxiogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxxiogo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dxxiogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
   ##
