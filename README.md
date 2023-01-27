@@ -1,8 +1,7 @@
 ### Hi! I am Diogo Santana 👋
 <ul>
-<li>🌱 I currently study Frontend development.
+<li>🌱 I currently study Front-end development.
 <li>📚  Graduating in Systems Analisys and Development at IFPB.
-<li>📚 Technologies: CSS, HTML5, JavaScript, Sass e GIT
 </ul>
 <div>
    <a href="https://mail.google.com/mail/u/0/" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>  
@@ -11,7 +10,7 @@
 </div> 
 
   
-  ##
+  ## 💻 Technologies: 
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
