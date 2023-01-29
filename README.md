@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/diogo-santana-freitas-78852321b" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
   </a> 
 </div> 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxxiogo&layout=compact)](https://github.com/dxxiogo/github-readme-stats)
+   https://github-readme-stats.vercel.app/api/top-langs/?username=dxxiogo&layout=compact https://github.com/dxxiogo/github-readme-stats
    
   ## 💻 Technologies: 
   
