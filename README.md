@@ -4,11 +4,6 @@
 <li>📚  Graduating in Systems Analisys and Development at IFPB.
 </ul>
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=dxxiogo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxxiogo&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
 ## 📱 Contacts:
 <div>
    <a href=" mailto: https://mail.google.com/mail/u/0/" target="_blank"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>  
