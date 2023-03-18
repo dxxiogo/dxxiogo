@@ -4,6 +4,11 @@
 <li>📚  Graduating in Systems Analisys and Development at IFPB.
 </ul>
 
+<div> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxxiogo&layout=compact&show_icons=true&theme=radical" alt="Dxxiogo top languages" width="320"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=dxxiogo&theme=radical" width="400" heigth="150"/>
+</div>
+
 
 ## 📱 Contacts:
 <div>
