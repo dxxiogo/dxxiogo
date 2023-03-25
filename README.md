@@ -27,12 +27,6 @@
      <img align="center" height="40" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=ffffff"/>
      <img align="center" height="40" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
   </div>
-  
-   ### 📚 Currently studying
-   <div>
-     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   </div>
 
 ## 🛠️ Tools:
    <div style="display: inline_block">
