@@ -1,8 +1,6 @@
-### Hi! I am Diogo Santana 👋
-<ul>
-<li>🌱 I currently study Front-end development.
-<li>📚  Graduating in Systems Analisys and Development at IFPB.
-</ul>
+### Olá! Eu sou Diogo 👋
+
+Eu sou estudante graduando no curso tecnológo de Análise e Desenvolvimento de Sistemas, no IFPB campus Cajazeiras, estou no momento no 3° período. Atualmente meu foco de estudo está direcionado a área de desenvolvimento frontend, área a qual mais me identifico dentro do mundo da programação. Para mim participar de um projeto que terá um impacto positivo na sociedade é muito significativo. Café + lofi + código = combo da felicidade. Sou fã de um bom livro desde do clichê ao mais técnico e gosto de trabalhar com pesssoas que realmente buscam siginificado no que fazem. 
 
 <div> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxxiogo&layout=compact&show_icons=true&theme=radical" alt="Dxxiogo top languages" width="320"/>
@@ -25,7 +23,7 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+   
 
   </div>
   
@@ -39,6 +37,7 @@
    <div style="display: inline_block">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
    </div>
 
   ![Snake animation](https://github.com/dxxiogo/dxxiogo/blob/output/github-contribution-grid-snake.svg)
