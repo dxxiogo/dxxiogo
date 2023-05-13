@@ -1,6 +1,6 @@
 ### Olá! Eu sou Diogo 👋
 
-Eu sou estudante graduando no curso tecnológo de Análise e Desenvolvimento de Sistemas, no IFPB campus Cajazeiras, estou no momento no 3° período. Atualmente meu foco de estudo está direcionado a área de desenvolvimento frontend, área a qual mais me identifico dentro do mundo da programação. Para mim participar de um projeto que terá um impacto positivo na sociedade é muito significativo. Café + lofi + código = combo da felicidade. Sou fã de um bom livro desde do clichê ao mais técnico e gosto de trabalhar com pesssoas que realmente buscam significado no que fazem. 
+Eu sou estudante graduando no curso de Análise e Desenvolvimento de Sistemas, no IFPB campus Cajazeiras, estou no momento no 3° período. Atualmente, meu foco de estudo está direcionado a área de desenvolvimento frontend, área a qual mais me identifico dentro do mundo da programação. Para mim participar de um projeto que terá um impacto positivo na sociedade é muito significativo. Café + lofi + código = combo da felicidade. Sou fã de um bom livro desde do clichê ao mais técnico e gosto de trabalhar com pesssoas que realmente buscam significado no que fazem. 
 
 
 ## 📱 Contatos:
@@ -26,6 +26,7 @@ Eu sou estudante graduando no curso tecnológo de Análise e Desenvolvimento de 
   <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
    </div>
  
 ## 🛠️ Ferramentas:
