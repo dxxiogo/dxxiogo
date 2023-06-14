@@ -1,6 +1,6 @@
 ### Olá! Eu sou Diogo 👋
 
-Eu sou estudante graduando no curso de Análise e Desenvolvimento de Sistemas, no IFPB campus Cajazeiras, estou no momento no 3° período. Atualmente, meu foco de estudo está direcionado a área de desenvolvimento frontend, área a qual mais me identifico dentro do mundo da programação. Para mim participar de um projeto que terá um impacto positivo na sociedade é muito significativo. Café + lofi + código = combo da felicidade. Sou fã de um bom livro desde do clichê ao mais técnico e gosto de trabalhar com pesssoas que realmente buscam significado no que fazem. 
+Eu sou estudante graduando no curso de Análise e Desenvolvimento de Sistemas, no IFPB campus Cajazeiras, estou no momento no 3° período. Atualmente, meu foco de estudo está direcionado a área de desenvolvimento frontend, área a qual mais me identifico dentro do mundo da programação. Para mim participar de um projeto que terá um impacto positivo na sociedade é muito significativo. Sou fã de um bom livro desde do clichê ao mais técnico e gosto de trabalhar com pesssoas que realmente buscam significado no que fazem. 
 
 
 ## 📱 Contatos:
