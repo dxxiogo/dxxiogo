@@ -22,5 +22,5 @@
 
   📫 Connect with me: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)]( https://mail.google.com/mail/u/0/) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-santana-freitas-78852321b)
 
-  "A true fan of both classic literature and technical books. I'm enthusiastic about collaborating with people who seek purpose in their work."
+  "I'm enthusiastic about collaborating with people who seek purpose in their work."
 </div>
